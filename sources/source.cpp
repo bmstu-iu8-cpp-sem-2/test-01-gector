@@ -1,3 +1,7 @@
-// Copyright 2018 Your Name <your_email>
+// Copyright 2020 IU8 <iu8@bmstu.ru>
 
-#include <header.hpp>
+#include <gvector.hpp>
+
+int main() {
+  // Your code here.
+}
